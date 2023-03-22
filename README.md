@@ -29,7 +29,7 @@ Click the design User Interface in Dribbble, i'm create Design Dribbble used Fig
         <b>dribbble.com</b>
         </a>
                 </li>
-        <li><a https://codepen.io/akbarfkri/pen/BaOqMrE">
+        <li><a href = "https://codepen.io/akbarfkri/pen/BaOqMrE">
         <b>i live in codepen</b>
         </a>
         </li>
